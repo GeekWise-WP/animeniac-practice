@@ -1,0 +1,4 @@
+require:
+  - wp-cli/browse-command.php
+@animeniac.practice:
+  ssh: vagrant:animeniac.practice:/var/www/html
